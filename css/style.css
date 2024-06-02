@@ -87,7 +87,7 @@ img{
 }
 
 #home{
-    background-image: url(../images/main-bg.jpg),linear-gradient(#c9ffbf,#ffafbd);
+    background-image: url(../images/main-bg.jpg)
     min-height: 100vh;
 }
 
